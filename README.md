@@ -8,8 +8,10 @@ The software offers several features. The most significant ones are:
 - **Collection of data regarding the CPU and RAM usage of each individual process**: data collection takes place individually for each process, and the duration of the collection depends on the user, who can stop it by pressing a specific combination of keys
 - **Analysis of collected data**: for each chosen process it is calculated average CPU and RAM usage. In particular, the tool calculates a simple arithmetic mean on the data regarding the use of these resources
 - **Print the results obtained**: the results obtained on each of the processes chosen by the user are shown in output, in two different formats:
-      ▪ in text format, on the console, the calculated average consumption, both for CPU and RAM <br>
-      ▪ in the form of graphs, the trend is displayed of the use of hardware resources, in order to identify any load peaks
+      <ul>
+            <li>in text format, on the console, the calculated average consumption, both for CPU and RAM <br>
+            <li>in the form of graphs, the trend is displayed of the use of hardware resources, in order to identify any load peaks
+      </ul>
 - **Calculation of data aggregated across all processes**: at the end of the collection of data on individual processes, the user can request the calculation of the use Average CPU and RAM of all chosen processes. This information comes then shown on the console.
 
 # Usage
