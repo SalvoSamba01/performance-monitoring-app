@@ -17,6 +17,6 @@ The software offers several features. The most significant ones are:
 # Usage
 1. Download a Python enviroment, e.g. (Anaconda)[https://www.anaconda.com/products/distribution] or directly from the (official Python site)[https://www.python.org/downloads/]
 2. Download "monitoring.py" script
-         . **OPTIONAL**: *you can also download "createProcesses.py" script, which allow you to automatically launch several instances of a specific program, in order to stress your CPU and RAM*. In order to specify the program you want to launch, you have to write the **path** of the program (e.g. *C:\Program Files/Blender Foundation/Blender 3.4/blender.exe*) and the number N of instances to launch.
+         - **OPTIONAL**: *you can also download "createProcesses.py" script, which allow you to automatically launch several instances of a specific program, in order to stress your CPU and RAM*. In order to specify the program you want to launch, you have to write the **path** of the program (e.g. *C:\Program Files/Blender Foundation/Blender 3.4/blender.exe*) and the number N of instances to launch.
 3. Open a shell window, and launch the script with the command ***python monitoring.py***
 4. Follow the istructions in the shell
